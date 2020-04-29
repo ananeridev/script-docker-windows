@@ -16,4 +16,4 @@ source "$BASH_IT_CUSTOM"/bash-it-customizations.sh
 # Pre Requisites
 * WSL version 2
 * windows on version ealier 19.904
-* **if you don't have this version subscribe on que windows insider**
+* **if you don't have this version subscribe on windows insider**
