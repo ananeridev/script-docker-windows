@@ -4,7 +4,7 @@
 * bash it
 * clone this repository using
 ```
- git clone --recurse-submodules https://github.com/anabneri/script-docker-windows
+ git clone https://github.com/anabneri/script-docker-windows
 ```
 * it's necessary add thre lines in the end of the script
 ```
