@@ -21,5 +21,8 @@ docker image ls
 echo images I can rotate
 docker ps --all
 
+echo running docker
+sudo docker run hello-world
+
 
 
